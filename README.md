@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @auponchon
 - 👀 I’m interested in sciences, wild animals, climate change and hiking
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on scientific projects and Rstat package development
+- 🌱 Super R addict 
+- 💞️ Love creating maps and figures
 - 📫 How to reach me @AurorePonchon
 
 <!---
